@@ -41,6 +41,7 @@ caption: Using MyST Markdown
 using/intro.md
 using/syntax.md
 using/syntax-optional.md
+using/rosetta.md
 using/howto.md
 using/faq.md
 using/use_api.md
